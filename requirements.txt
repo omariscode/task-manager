@@ -1,0 +1,7 @@
+Python3
+Flask
+Flask-SQLAlchemy
+HTML
+Tailwind
+JavaScript
+Jinja
